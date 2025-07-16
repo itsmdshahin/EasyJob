@@ -1,0 +1,9 @@
+name: Default Codespaces Config
+on: { codespaces: {} }
+jobs:
+  initialize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup .NET SDK
+        run: echo "Codespace ready with .NET 8"

@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Core Launch (API)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/JobPortal.Api/bin/Debug/net8.0/JobPortal.Api.dll",
+      "cwd": "${workspaceFolder}/JobPortal.Api",
+      "console": "internalConsole"
+    }
+  ]
+}
