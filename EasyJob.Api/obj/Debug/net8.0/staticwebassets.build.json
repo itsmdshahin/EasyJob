@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9DPFhomjIICZeAdvNJka93o6x3CqgrfWGfbtKZ5qtjA=",
+  "Source": "EasyJob.Api",
+  "BasePath": "_content/EasyJob.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

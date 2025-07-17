@@ -1,0 +1,12 @@
+/workspaces/EasyJob/EasyJob.Core/bin/Debug/net8.0/EasyJob.Core.deps.json
+/workspaces/EasyJob/EasyJob.Core/bin/Debug/net8.0/EasyJob.Core.dll
+/workspaces/EasyJob/EasyJob.Core/bin/Debug/net8.0/EasyJob.Core.pdb
+/workspaces/EasyJob/EasyJob.Core/obj/Debug/net8.0/EasyJob.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EasyJob/EasyJob.Core/obj/Debug/net8.0/EasyJob.Core.AssemblyInfoInputs.cache
+/workspaces/EasyJob/EasyJob.Core/obj/Debug/net8.0/EasyJob.Core.AssemblyInfo.cs
+/workspaces/EasyJob/EasyJob.Core/obj/Debug/net8.0/EasyJob.Core.csproj.CoreCompileInputs.cache
+/workspaces/EasyJob/EasyJob.Core/obj/Debug/net8.0/EasyJob.Core.sourcelink.json
+/workspaces/EasyJob/EasyJob.Core/obj/Debug/net8.0/EasyJob.Core.dll
+/workspaces/EasyJob/EasyJob.Core/obj/Debug/net8.0/refint/EasyJob.Core.dll
+/workspaces/EasyJob/EasyJob.Core/obj/Debug/net8.0/EasyJob.Core.pdb
+/workspaces/EasyJob/EasyJob.Core/obj/Debug/net8.0/ref/EasyJob.Core.dll

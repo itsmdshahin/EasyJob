@@ -1,5 +1,5 @@
 {
-  "name": "JobPortal .NET 8 Codespace",
+  "name": "EasyJob .NET 8 Codespace",
   "build": { "dockerfile": "Dockerfile", "context": ".." },
   "settings": { "editor.formatOnSave": true },
   "extensions": [
@@ -7,7 +7,7 @@
     "ms-azuretools.vscode-docker"
   ],
   "forwardPorts": [5000,5001],
-  "postCreateCommand": "dotnet restore JobPortal.Api/JobPortal.Api.csproj",
+  "postCreateCommand": "dotnet restore EasyJob.Api/EasyJob.Api.csproj",
   "remoteUser": "root",
   "workspaceFolder": "/workspace"
 }
