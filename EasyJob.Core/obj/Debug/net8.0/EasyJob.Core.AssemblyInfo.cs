@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyJob.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6124813d9be6433254253255a41503de4aab9fb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbdc10c909932c95d6251fba093999bf63f4446d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyJob.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyJob.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
